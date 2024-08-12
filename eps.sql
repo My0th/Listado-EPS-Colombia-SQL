@@ -1,8 +1,3 @@
-/*
-SQLyog Ultimate v11.11 (64 bit)
-MySQL - 5.5.5-10.4.32-MariaDB : Database - monedig
-*********************************************************************
-*/
 
 /*!40101 SET NAMES utf8 */;
 
